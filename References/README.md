@@ -6,3 +6,5 @@
 ## Visual Explaination:
 
 * [setosa.io](http://setosa.io/ev/)
+
+* [SVM](https://www.svm-tutorial.com/)
