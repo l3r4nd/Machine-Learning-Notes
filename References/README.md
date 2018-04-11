@@ -1,8 +1,14 @@
 ## Metrics:
 
-* [Useful properties of ROC curves, AUC scoring, and Gini Coefficients (Reading)](https://luckytoilet.wordpress.com/)
+*  ### AUC-ROC:
 
-* [Gini Index (Video)](https://www.youtube.com/watch?v=u6SYXvmKOWo)
+* * [Useful properties of ROC curves, AUC scoring, and Gini Coefficients (Reading)](https://luckytoilet.wordpress.com/)
+
+* * [Understanding ROC curve](https://stats.stackexchange.com/questions/105501/understanding-roc-curve)
+
+* ### Gini Index:
+
+* * [Gini Index (Video)](https://www.youtube.com/watch?v=u6SYXvmKOWo)
 
 
 ## Visual Explaination:
