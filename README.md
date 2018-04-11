@@ -11,6 +11,7 @@ The format for all the Notes will contain:
 
 2. Prerequisites for understanding the topics with references.
 
+# References:
 
 ## Metrics:
 
@@ -29,7 +30,7 @@ The format for all the Notes will contain:
 
 * [setosa.io (Reading)](http://setosa.io/ev/)
 
-## Machine Learning:
+## Machine Learning Models:
 * [SVM (Reading)](https://www.svm-tutorial.com/)
 
 * [XGBoost (Reading)](http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/)
